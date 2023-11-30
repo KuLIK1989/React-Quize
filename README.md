@@ -4,7 +4,9 @@
 <h3>
 Frameworks, Platforms and Libraries
 </h3>
-https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+<!-- https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
 https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
 https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB -->
